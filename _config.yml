@@ -19,5 +19,8 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/diftol'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/diftol'
+    type: external
 title: 'The Internet:'
 description: A place for people
