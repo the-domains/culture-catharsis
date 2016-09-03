@@ -22,5 +22,8 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/diftol'
     type: external
+  - name: LinkedIn
+    url: 'https://uk.linkedin.com/in/daniel-hultgren-05079b3a'
+    type: external
 title: 'The Internet:'
 description: A place for people
