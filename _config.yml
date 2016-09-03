@@ -1,16 +1,16 @@
-typography_spectrum: 0.03477404499426484
+layout_spectrum: 0.09753089724108577
+typography_spectrum: 0.49830123921856284
 color:
-  brandStrength: 0.7314731171354651
-  lightness: 0.24366177967749536
-  saturation: 0.2530034265946597
-  rhythmicContrast: 0.4897683057934046
+  brandStrength: 0.21383925108239055
+  lightness: 0.6122438758611679
+  saturation: 0.8118840563111007
+  rhythmicContrast: 0.26367801311425865
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-layout_spectrum: 0.06284264172427356
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: culture catharsis
 navigation:
   - name: Blog
