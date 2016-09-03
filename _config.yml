@@ -1,4 +1,3 @@
-layout_spectrum: 0.09753089724108577
 typography_spectrum: 0.49830123921856284
 color:
   brandStrength: 0.21383925108239055
@@ -11,10 +10,14 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
+layout_spectrum: 0.09753089724108577
 name: culture catharsis
 navigation:
   - name: Blog
     url: 'http://culturecatharsis.com'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/diftol'
     type: external
 title: 'The Internet:'
 description: A place for people
