@@ -1,4 +1,3 @@
-layout_spectrum: 0.06284264172427356
 typography_spectrum: 0.03477404499426484
 color:
   brandStrength: 0.7314731171354651
@@ -6,9 +5,11 @@ color:
   saturation: 0.2530034265946597
   rhythmicContrast: 0.4897683057934046
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.06284264172427356
 name: culture catharsis
+description: A place for you
