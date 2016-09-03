@@ -19,11 +19,11 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/diftol'
     type: external
-  - name: Facebook
-    url: 'https://www.facebook.com/diftol'
-    type: external
   - name: LinkedIn
     url: 'https://uk.linkedin.com/in/daniel-hultgren-05079b3a'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/diftol'
     type: external
 title: Daniel Hultgren
 description: An online calling card
